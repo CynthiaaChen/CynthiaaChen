@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CynthiaaChen
-- 👀 I’m interested in applying machine learning and AI in bioinformatics to advance human health
+- 👀 I’m interested in applying machine learning and AI to advance human health
 - 🌱 I’m currently learning bioinformatics from Coursera
 
 <!---
